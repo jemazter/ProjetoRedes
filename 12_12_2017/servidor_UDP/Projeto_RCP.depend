@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1513083154 source:c:\users\aluno\desktop\projeto_rcp\main.c
+	<winsock.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
